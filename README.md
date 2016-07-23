@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://liuyanwei.jumppo.com](http://liuyanwei.jumppo.com)
+地址：[https://github.com/mrscorpion/mr.scorpion.github.io](https://github.com/mrscorpion/mr.scorpion.github.io)
 
 
 ### 安装说明
@@ -15,11 +15,6 @@
 
 **注意:**
 
-fork程序后如果要保留我的文章，请注明出处。
-
-github博客系统使用的是jekyll搭建的，关于博客详细搭建，可以参考我的文章：[在github上搭建jekyll博客](http://liuyanwei.jumppo.com/2014/02/12/how-to-deploy-a-blog-on-github-by-jekyll.html)
-
-
 ### 更新内容
 -   [ x ]  增加文章搜索功能
 -   [ x ]  增加SEO优化和站点地图功能
@@ -32,6 +27,5 @@ github博客系统使用的是jekyll搭建的，关于博客详细搭建，可�
 
 -jumppo图床网站，基于html5和php
 jekyll博客发布图片时只能外链，所以为了配合这个博客，整了一个简单的图床程序，地址：[https://github.com/coolnameismy/ImagesUploadWebSite](https://github.com/coolnameismy/ImagesUploadWebSite)
-
 
 
